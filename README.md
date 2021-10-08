@@ -1,6 +1,6 @@
 # AES Algorithm
 
-In this project, AES is implemented for deception and encryption.
+In this project, AES is implemented for decryption and encryption.
 
 AES-128 is a block cipher that operates on blocks of 128 bits (16 bytes). This algorithm performs multiple substitutions and permutations in each block, then concatenates it all.
 
